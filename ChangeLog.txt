@@ -1,27 +1,65 @@
-{"version_code":451201,"content":"
-<p>6.30 clear</p>
+{"version_code":451203,"content":"
+<p>6.30 Clear</p>
 
-<li> New Base Updated to 2.18.9</li>
-<li> (Super Exclusive) AutoReply (Auto Message when you are Busy)</li>
-<li> Enabled Search Participants</li>
-<li> Enabled Manage Group Admins</li>
-<li> Enabled Group Settings (Server Sided) </li>
-<li> Added 7 New Conversation Bubbles</li>
-<li> Added 4 New Ticks</li>
-<li> Added 16 New Notifying Bar Icons</li>
-<li> Added 5 New Launcher Icons </li>
-<li> Added Option to Hide Admin Caption in Group (Mod 1.2.64)</li>
-<li> Added Option to Color Admin caption in Group (Mod 1.2.65)</li>
-<li> Added Hindi Language (Indian Language) </li>
-<li> Fixed Hidden Chat opening from Phones</li>
-<li> Fixed Hidden Chat opening from Dialer</li>
-<li> Fixed Hidden Message showing in Widget</li>
-<li> Fixed Hidden Chat Opening from Widget</li>
-<li> Fixed Able to call Hidden Chat From Group</li>
-<li> Fixed Showing Hidden Chat when try to Share from Gallery or File Manager. </li>
-<li> Fixed App Opening from Widget even when Locked</li>
-<li> Fixed Crash On Some Devices</li>
+<li> New Base Updated to 2.18.46</li>
+<li> (Super - Exclusive) Notification of Revoked Message (Know Which Message was Revoked) </li>
+<li> (Exclusively) Fixed Disable Heads-up for Oreo Users (Mod 6.11)</li>
+<li> (Exclusively) Added Back Play Video in your Favourite Player (Mod 6.19)</li>
+<li> Enabled Group Description</li>
+<li> (Exclusive) Added Group Description in Header Like Status</li>
+<li> Enabled Payments (You need to ask someone who is already payments activated to activate for you) (Country Specific) </li>
+<li> Enabled Mention Button</li>
+<li> Added Option to Hide Group Description from Groups Header (Mod 1.2.66)</li>
+<li> Added Back Option to Convert Video to GIF</li>
+<li> Added Option to Edit Auto Reply Message</li>
+<li> Improved AutoReply</li>
+<li> Added Option to Disable Header Vibration when Receive Message from Hidden Chat (Hidden Chats Page - Click on Settings Icon) </li>
+<li> Added Option to Hide Count on Icon for Hidden Chat (Hidden Chats Page - Click on Settings Icon) </li>
+<li> Added Themed New Group Page</li>
+<li> Added Themed New Broadcast Page</li>
+<li> Added Themed Custom Chats Screen</li>
+<li> Added Themed Scheduler Page</li>
+<li> Added Option to Color Unsaved Participants Name in Group (Mod 1.2.67)</li>
+<li> Added Online/Last Seen Text Size on Main Screen (Mod 2.2.30A)</li>
+<li> Added Online/Last Seen Text Size on Contacts Screen (Mod 2.4.13A)</li>
+<li> Fixed Admin Caption (Mod 1.2.64)</li>
+<li> Fixed delete AutoReply</li>
+<li> Fixed Hidden Chat counter Showing On Widget</li>
+<li> Fixed Hidden Chat Opening from Group Info</li>
+<li> Fixed Hidden Group Opening from Groups in Common</li>
 <li> Many More Fixes</li>
+
+<li> Nuevos Cambios:</li>
+<li> Clear Version. Sin publicidad y en español, créditos a Osjakvd. Para más noticias visita: ----> <a href="https://plus.google.com/u/0/101740530057929958005/posts">Osjakvd Android</a></li>
+<li> Exclusivo: Nuevo Actualizador dentro de la aplicación, ahora solo verás la notificación de actualización cuando la versión transparente este terminada. (Olvídate del molesto letrero)</li>
+<li> GBChangelog:</li>
+<li> Nueva Base actualizada a  2.18.46</li>
+<li> (Super - Exclusivo) Notificación de mensaje eliminado (Ahora sabrás que mensaje fue eliminado)</li> 
+<li> (Exclusivo) Corregido Deshabilitar Notificaciones para Android Oreo (Mod 6.11)</li>
+<li> (Exclusivo) Añadido de nuevo Reproducir video en tu reproductor favorito (Mod 6.19)</li>
+<li> Habilitado Descripción de Grupo.</li>
+<li> (Exclusivo) Añadido Descripción de Grupo en la cabecera como los estados.</li>
+<li> Habilitado PAgos (Necesitas preguntar a alguien que ya los tenga activos para que se te activen) (Países específicos)</li> 
+<li> Habilitado Botón de Mención.</li>
+<li> Añadida opción para ocultar la descripción de Grupo de la cabecera. (Mod 1.2.66)</li>
+<li> Añadida de nuevo opción para convertir video en Gift.</li>
+<li> Añadida opción para Editar la Autorespuesta.</li>
+<li> Mejora en mod de Autorespuesta.</li>
+<li> Añadida opción para evitar la vibración de la cabecera cuando hay chats ocultos. (Página de Chats ocultos - Clic en icono de ajustes)</li>
+<li> Añadida opción para evitar el contador de mensajes d echats ocultos (Página de Chats ocultos - Clic en icono de ajustes)</li> 
+<li> Añadida opciones para tematizar grupos.</li>
+<li> Añadida opciones para tematizar difusiones.</li>
+<li> Añadida opciones para tematizar pantalla de chats personalizados.</li> 
+<li> Añadida opciones para tematizar pantalla para programar mensajes.</li>
+<li> Añadida opción para colorear nombres de participantes no agendados. (Mod 1.2.67)</li>
+<li> Añadida opción para cambiar tamaño de en linea/ultima vez en pantalla principal (Mod 2.2.30A)</li>
+<li> Añadida opción para cambiar tamaño de en linea/ultima vez en pantalla de conversación. (Mod 2.4.13A)</li>
+<li> Corregido etiqueta de administradores en grupos. (Mod 1.2.64)</li>
+<li> Corregido eliminar autorespuesta.</li>
+<li> Corrregido Contador de chat oculto se mostraba en widget.</li>
+<li> Corregido Abrir chats ocultos desde Grupos.</li>
+<li> Corregido Grupo Oculto se abria desde grupos en común.</li>
+<li> Muchos más correcciones.</li>
 
 ","https://github.com/Osjakvd/gbwha/raw/master/GBWAUpdate.apk"
 }
