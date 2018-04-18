@@ -1,5 +1,5 @@
 {"version_code":451203,"content":"
-<p style="color:blue"><b>6.30 Clear<b></p>
+<p><b>6.30 Clear<b></p>
 
 <li> New Base Updated to 2.18.46</li>
 <li> (Super - Exclusive) Notification of Revoked Message (Know Which Message was Revoked)</li>
@@ -30,10 +30,10 @@
 <li> Many More Fixes</li>
 <li> </li>
 <li> </li>
-<p style="color:blue"><b>Nuevos Cambios<b></p>
+<p><b>Nuevos Cambios<b></p>
 <li> Clear Version. Sin publicidad y en español, créditos a Osjakvd.</li>
 <li> Exclusivo: Nuevo Actualizador dentro de la aplicación, ahora solo verás la notificación de actualización cuando la versión transparente este terminada. (Olvídate del molesto letrero)</li>
-<li><b> GBChangelog:<b></li>
+<li><b>GBChangelog:<b></li>
 <li> Nueva Base actualizada a  2.18.46</li>
 <li> (Super - Exclusivo) Notificación de mensaje eliminado (Ahora sabrás que mensaje fue eliminado)</li> 
 <li> (Exclusivo) Corregido Deshabilitar Notificaciones para Android Oreo (Mod 6.11)</li>
