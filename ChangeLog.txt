@@ -1,5 +1,5 @@
 {"version_code":451203,"content":"
-<p>تحديث 6.30</p>
+<p>6.30 Clear</p>
 
 <li> New Base Updated to 2.18.46</li>
 <li> (Super - Exclusive) Notification of Revoked Message (Know Which Message was Revoked) </li>
@@ -30,7 +30,7 @@
 <li> Many More Fixes</li>
 
 <li> Nuevos Cambios:</li>
-<li> Clear Version. Sin publicidad y en español, créditos a Osjakvd. Para más noticias visita: ----> <a href="https://plus.google.com/u/0/101740530057929958005/posts">Osjakvd Android</a></li>
+<li> Clear Version. Sin publicidad y en español, créditos a Osjakvd.</li>
 <li> Exclusivo: Nuevo Actualizador dentro de la aplicación, ahora solo verás la notificación de actualización cuando la versión transparente este terminada. (Olvídate del molesto letrero)</li>
 <li> GBChangelog:</li>
 <li> Nueva Base actualizada a  2.18.46</li>
@@ -61,5 +61,5 @@
 <li> Corregido Grupo Oculto se abria desde grupos en común.</li>
 <li> Muchos más correcciones.</li>
 
-","url":"https://github.com/Osjakvd/gbwhaplus/raw/master/GBWAUpdate.apk"
+","url":"https://github.com/Osjakvd/gbwhaplus/raw/master/GBWAPlusUpdate.apk"
 }
