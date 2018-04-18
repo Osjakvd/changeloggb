@@ -1,20 +1,20 @@
 {"version_code":451203,"content":"
-<p>6.30 Clear</p>
+<p style="color:blue"><b>6.30 Clear<b></p>
 
 <li> New Base Updated to 2.18.46</li>
-<li> (Super - Exclusive) Notification of Revoked Message (Know Which Message was Revoked) </li>
+<li> (Super - Exclusive) Notification of Revoked Message (Know Which Message was Revoked)</li>
 <li> (Exclusively) Fixed Disable Heads-up for Oreo Users (Mod 6.11)</li>
 <li> (Exclusively) Added Back Play Video in your Favourite Player (Mod 6.19)</li>
 <li> Enabled Group Description</li>
 <li> (Exclusive) Added Group Description in Header Like Status</li>
-<li> Enabled Payments (You need to ask someone who is already payments activated to activate for you) (Country Specific) </li>
+<li> Enabled Payments (You need to ask someone who is already payments activated to activate for you) (Country Specific)</li>
 <li> Enabled Mention Button</li>
 <li> Added Option to Hide Group Description from Groups Header (Mod 1.2.66)</li>
 <li> Added Back Option to Convert Video to GIF</li>
 <li> Added Option to Edit Auto Reply Message</li>
 <li> Improved AutoReply</li>
-<li> Added Option to Disable Header Vibration when Receive Message from Hidden Chat (Hidden Chats Page - Click on Settings Icon) </li>
-<li> Added Option to Hide Count on Icon for Hidden Chat (Hidden Chats Page - Click on Settings Icon) </li>
+<li> Added Option to Disable Header Vibration when Receive Message from Hidden Chat (Hidden Chats Page - Click on Settings Icon)</li>
+<li> Added Option to Hide Count on Icon for Hidden Chat (Hidden Chats Page - Click on Settings Icon)</li>
 <li> Added Themed New Group Page</li>
 <li> Added Themed New Broadcast Page</li>
 <li> Added Themed Custom Chats Screen</li>
@@ -28,11 +28,12 @@
 <li> Fixed Hidden Chat Opening from Group Info</li>
 <li> Fixed Hidden Group Opening from Groups in Common</li>
 <li> Many More Fixes</li>
-
-<li> Nuevos Cambios:</li>
+<li> </li>
+<li> </li>
+<p style="color:blue"><b>Nuevos Cambios<b></p>
 <li> Clear Version. Sin publicidad y en español, créditos a Osjakvd.</li>
 <li> Exclusivo: Nuevo Actualizador dentro de la aplicación, ahora solo verás la notificación de actualización cuando la versión transparente este terminada. (Olvídate del molesto letrero)</li>
-<li> GBChangelog:</li>
+<li><b> GBChangelog:<b></li>
 <li> Nueva Base actualizada a  2.18.46</li>
 <li> (Super - Exclusivo) Notificación de mensaje eliminado (Ahora sabrás que mensaje fue eliminado)</li> 
 <li> (Exclusivo) Corregido Deshabilitar Notificaciones para Android Oreo (Mod 6.11)</li>
@@ -61,5 +62,5 @@
 <li> Corregido Grupo Oculto se abria desde grupos en común.</li>
 <li> Muchos más correcciones.</li>
 
-","url":"https://github.com/Osjakvd/gbwhaplus/raw/master/GBWAPlusUpdate.apk"
+","url":"https://github.com/Osjakvd/gbwhaplus/raw/master/GBWAUpdate.apk"
 }
