@@ -1,5 +1,5 @@
 {"version_code":451203,"content":"
-<p>6.30 Clear</p>
+<p>تحديث 6.30</p>
 
 <li> New Base Updated to 2.18.46</li>
 <li> (Super - Exclusive) Notification of Revoked Message (Know Which Message was Revoked) </li>
@@ -61,5 +61,5 @@
 <li> Corregido Grupo Oculto se abria desde grupos en común.</li>
 <li> Muchos más correcciones.</li>
 
-","https://github.com/Osjakvd/gbwha/raw/master/GBWAUpdate.apk"
+","url":"https://github.com/Osjakvd/gbwhaplus/raw/master/GBWAUpdate.apk"
 }
