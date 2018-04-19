@@ -1,6 +1,10 @@
 {"version_code":451203,"content":"
-<p>6.30 Clear</p>
+<p><b>6.30 Clear</b></p>
 
+<p><b>New Changes:</b></p>
+<li> Clear Version. Without Ads, credits to Osjakvd.</li>
+<li> Exclusive: New Updater inside the app, now you see the update notification only when it is finished. (Forget the annoying update notification).</li>
+<p><b>GBChangelog:</b></p>
 <li> New Base Updated to 2.18.46</li>
 <li> (Super - Exclusive) Notification of Revoked Message (Know Which Message was Revoked)</li>
 <li> (Exclusively) Fixed Disable Heads-up for Oreo Users (Mod 6.11)</li>
@@ -28,12 +32,12 @@
 <li> Fixed Hidden Chat Opening from Group Info</li>
 <li> Fixed Hidden Group Opening from Groups in Common</li>
 <li> Many More Fixes</li>
-<li> </li>
-<li> </li>
-<p>Nuevos Cambios</p>
+
+
+<p><b>Nuevos Cambios</b></p>
 <li> Clear Version. Sin publicidad y en español, créditos a Osjakvd.</li>
 <li> Exclusivo: Nuevo Actualizador dentro de la aplicación, ahora solo verás la notificación de actualización cuando la versión transparente este terminada. (Olvídate del molesto letrero)</li>
-<li>GBChangelog:</li>
+<p><b>GBChangelog:</b></p>
 <li> Nueva Base actualizada a  2.18.46</li>
 <li> (Super - Exclusivo) Notificación de mensaje eliminado (Ahora sabrás que mensaje fue eliminado)</li> 
 <li> (Exclusivo) Corregido Deshabilitar Notificaciones para Android Oreo (Mod 6.11)</li>
