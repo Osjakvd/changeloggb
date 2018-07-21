@@ -43,5 +43,5 @@
 <li> Añadida opción para habilitar icono de video en cabecera de conversación. (Mod 1.1.16)</li>
 <li> Muchos más correcciones.</li>
 
-","url":"https://github.com/Osjakvd/gbwhaplus/raw/master/GBWAUpdate.apk"
+","url":"https://github.com/Osjakvd/gbwha/raw/master/GBWAUpdate.apk"
 }
